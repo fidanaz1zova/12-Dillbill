@@ -1,0 +1,35 @@
+
+.header {
+    width: 100%;
+    background-color:  rgb(35, 33, 33);
+ }
+   .container-1 {
+    margin: auto;
+    width: 1500px;
+    height: 70px;
+    background-color :rgb(35, 33, 33) ;
+   }
+ #languages {
+    background: none;
+    border: none;
+    color: $primaryColor;
+    margin-top: 5px;
+    margin-left: 900px;
+    font-size: 20px;
+ }
+ #options {
+    color: $secondarycolor;
+ }
+ #headset {
+    font-size: 30px;
+    color: yellow;
+    margin-left: 70px;
+    margin-top: 15px;
+ }
+ #number {
+    position: absolute;
+    left: 1180px;
+    top: 20px;
+    color: $primaryColor;
+    font-size: 20px;
+ }

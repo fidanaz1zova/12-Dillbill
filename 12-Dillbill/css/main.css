@@ -1,0 +1,166 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.buttons {
+  position: absolute;
+  top: 100px;
+}
+
+#btn-1 {
+  position: absolute;
+  left: 600px;
+  border: none;
+  font-size: 25px;
+  background: none;
+  text-decoration: none;
+}
+
+#btn-2 {
+  position: absolute;
+  left: 700px;
+  border: none;
+  font-size: 25px;
+  background: none;
+  text-decoration: none;
+}
+
+#btn-3 {
+  position: absolute;
+  left: 870px;
+  border: 1px solid gray;
+  border-radius: 7px;
+  width: 80px;
+  height: 40px;
+  color: gray;
+  font-size: 20px;
+  background: none;
+}
+
+#btn-4 {
+  position: absolute;
+  left: 970px;
+  border: 1px solid blue;
+  border-radius: 7px;
+  width: 80px;
+  height: 40px;
+  color: blue;
+  font-size: 20px;
+  background: none;
+}
+
+.header {
+  width: 100%;
+  background-color: rgb(35, 33, 33);
+}
+
+.container-1 {
+  margin: auto;
+  width: 1500px;
+  height: 70px;
+  background-color: rgb(35, 33, 33);
+}
+
+#languages {
+  background: none;
+  border: none;
+  color: white;
+  margin-top: 5px;
+  margin-left: 900px;
+  font-size: 20px;
+}
+
+#options {
+  color: black;
+}
+
+#headset {
+  font-size: 30px;
+  color: yellow;
+  margin-left: 70px;
+  margin-top: 15px;
+}
+
+#number {
+  position: absolute;
+  left: 1180px;
+  top: 20px;
+  color: white;
+  font-size: 20px;
+}
+
+nav {
+  width: 100%;
+  background-color: rgb(230, 230, 230);
+}
+
+.container-2 {
+  margin: auto;
+  width: 1500px;
+  height: 100px;
+  padding-left: 250px;
+  padding-right: 250px;
+  background-color: rgb(230, 230, 230);
+}
+
+#logo {
+  height: 35px;
+  margin-top: 30px;
+}
+
+.home {
+  width: 100%;
+  background-color: rgb(230, 230, 230);
+  position: relative;
+}
+
+.container-3 {
+  margin: auto;
+  width: 1500px;
+  height: 700px;
+  padding-left: 250px;
+  padding-right: 250px;
+  background-color: rgb(230, 230, 230);
+}
+
+#banner-1 {
+  position: absolute;
+  left: 500px;
+  height: 150px;
+  width: 170px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-right: 400px;
+}
+
+#blue {
+  color: rgb(22, 111, 180);
+}
+
+#h-1 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+#h-2 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+#h-3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: normal;
+}/*# sourceMappingURL=main.css.map */
